@@ -138,8 +138,8 @@ public class Pile4 implements PileI, Cloneable {
     }
 
    
-	public boolean equals(Object o) {
-		boolean b = true;
+    public boolean equals(Object o) {
+        boolean b = true;
         Pile4 p1;
         if (o instanceof Pile4) {
             p1 = (Pile4)o;

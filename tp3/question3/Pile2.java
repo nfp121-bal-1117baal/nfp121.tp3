@@ -87,7 +87,7 @@ public class Pile2<T> implements PileI<T>{
     }
     
     
-	public boolean equals(Object o){
+    public boolean equals(Object o){
         if( this== o ){
             return true;
         }
